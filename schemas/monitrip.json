@@ -1,0 +1,51 @@
+{
+    "type": "record",
+    "name": "Monitrip",
+    "fields": [
+        {
+            "name": "mes_emissao_bilhete",
+            "type": "string",
+            "doc": "mes de emissao do bilhete"
+        },
+        {
+            "name": "mes_viagem",
+            "type": "string",
+            "doc": "mes da viagem"
+        },
+        {
+            "name": "ponto_origem_viagem",
+            "type": "string",
+            "doc": "ponto_origem_viagem"
+        },
+        {
+            "name": "ponto_destino_viagem",
+            "type": "string",
+            "doc": "ponto_destino_viagem"
+        },
+        {
+            "name": "tipo_servico",
+            "type": "string",
+            "doc": "tipo_servico"
+        },
+        {
+            "name": "tipo_gratuidade",
+            "type": "string",
+            "doc": "tipo_gratuidade"
+        },
+        {
+            "name": "media_valor_total",
+            "type": "double",
+            "doc": "media_valor_total"
+        },
+        {
+            "name": "dp_valor_total",
+            "type": "double",
+            "doc": "dp_valor_total"
+        },
+        {
+            "name": "quantidade_bilhetes",
+            "type": "double",
+            "doc": "quantidade_bilhetes"
+        }
+    ]
+}
