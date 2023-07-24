@@ -6,7 +6,7 @@ Este projeto pretende extrair os dados de bilhete de passagem coletados pelo Sis
 
 ## Diagrama de Arquitetura
 
-![ETL_ANTT_Monitrip]()
+![ETL_ANTT_Monitrip](https://github.com/matheus-conrado/etl-antt-monitrip/raw/master/etl-antt-monitrip.jpg?raw=true)
 
 ## Visão Geral
 
